@@ -1,2 +1,2 @@
-# TrendSync
-Seamlessly blending fashion trends with your individuality for personalized wardrobe recommendations
+# fashion-recommender-system
+A Deep Learning based Fashion Recommender System using the ResNET50
